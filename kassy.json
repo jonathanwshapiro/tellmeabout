@@ -1,7 +1,7 @@
 {
   "name": "tellmeabout",
   "version": 1.0,
-  "startup": "tellmeabout.js",
+  "startup": "tellusabout.js",
   "command": "tellmeabout",
   "help": [
       ["{{commandPrefix}}tellmeabout", "Official Snakes Canon", "Outputs important snake information"]
